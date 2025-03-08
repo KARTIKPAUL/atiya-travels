@@ -8,7 +8,7 @@ const testimonials = [
     name: "Mr.Prasenjit Chowdhury.",
     location: "Thiland",
     img: "assets/img/testimonial-2.jpg",
-    text: "It was a mind-blowing experience of traveling with Coochbehar Travels,, special thanks to Mr Biplab Chakraborty,as he extended his cordial support to me and my family in every aspect of Thailand Tour.",
+    text: "It was a mind-blowing experience of traveling with Atiya Travels,, special thanks to Mr Biplab Chakraborty,as he extended his cordial support to me and my family in every aspect of Thailand Tour.",
   },
   {
     name: "Rajpriya Bera",
@@ -20,25 +20,25 @@ const testimonials = [
     name: "Jayita das",
     location: "Inida",
     img: "assets/img/testimonial-3.jpg",
-    text: "We recently went to Kashmir with Coochbehar Travels and had the most horrible experience ever. Insolent  behavior of the tour managers ruined our whole trip. There was absolutely no cooperation coupled with utter harassment.",
+    text: "We recently went to Kashmir with Atiya Travels and had the most horrible experience ever. Insolent  behavior of the tour managers ruined our whole trip. There was absolutely no cooperation coupled with utter harassment.",
   },
   {
     name: "Manali Sarkar",
     location: "India",
     img: "assets/img/testimonial-4.jpg",
-    text: "It was an amazing experience ❤️....looking forward to plan more trips like this mesmerizing one!! Thanking Coochbehar travels for making our trip a successful one with great joy and happiness ❤️",
+    text: "It was an amazing experience ❤️....looking forward to plan more trips like this mesmerizing one!! Thanking Atiya travels for making our trip a successful one with great joy and happiness ❤️",
   },
   {
     name: "Parsomi Biswas",
     location: "India",
     img: "assets/img/testimonial-3.jpg",
-    text: "We went to a family tour at  Rajasthan this year with Coochbehar Travel. It is incredible that we didn't even have to call them once during the whole journey. Entire tour is so nicely organised, which is commendable.",
+    text: "We went to a family tour at  Rajasthan this year with Atiya Travel. It is incredible that we didn't even have to call them once during the whole journey. Entire tour is so nicely organised, which is commendable.",
   },
   {
     name: "Debolina Saha",
     location: "India",
     img: "assets/img/testimonial-4.jpg",
-    text: "Great experience with Coochbehar Travel this time around. We are a family of 16 members went to Kashmir at 20th October this month. We had a wonderful experience with our Group lead Mr Shubha Chakraborty.",
+    text: "Great experience with Atiya Travel this time around. We are a family of 16 members went to Kashmir at 20th October this month. We had a wonderful experience with our Group lead Mr Shubha Chakraborty.",
   },
 ];
 

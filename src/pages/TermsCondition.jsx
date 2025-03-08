@@ -17,10 +17,7 @@ const TermsConditions = () => {
                     <li className="breadcrumb-item">
                       <a href="/">Home</a>
                     </li>
-                    <li
-                      className="breadcrumb-item text-white active"
-                      aria-current="page"
-                    >
+                    <li className="breadcrumb-item text-white active" aria-current="page">
                       Terms & Conditions
                     </li>
                   </ol>
@@ -73,15 +70,9 @@ const TermsConditions = () => {
                 <h4>7. Contact Us</h4>
                 <p>If you have any questions, contact us at:</p>
                 <ul>
-                  <li>
-                    <strong>Email:</strong> info@coochbehartravel.com
-                  </li>
-                  <li>
-                    <strong>Phone:</strong> 099322 04885
-                  </li>
-                  <li>
-                    <strong>Address:</strong> Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101
-                  </li>
+                  <li><strong>Email:</strong> atiyatravels2016@gmail.com</li>
+                  <li><strong>Phone:</strong> +880 1711-382113</li>
+                  <li><strong>Address:</strong> R.B. COMPLEX EAST ZINDABAZAR SYLHET BANGLADESH, Sylhet, Bangladesh</li>
                 </ul>
               </Card>
             </Col>

@@ -55,7 +55,7 @@ function Packages() {
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">₹14,000.00</h3>
+                <h3 className="mb-0">৳14,000.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -103,7 +103,7 @@ function Packages() {
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">₹12,00.00</h3>
+                <h3 className="mb-0">৳12,00.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -151,7 +151,7 @@ function Packages() {
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">₹18,000.00</h3>
+                <h3 className="mb-0">৳18,000.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />

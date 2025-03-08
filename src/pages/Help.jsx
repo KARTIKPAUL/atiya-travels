@@ -17,10 +17,7 @@ const Help = () => {
                     <li className="breadcrumb-item">
                       <a href="/">Home</a>
                     </li>
-                    <li
-                      className="breadcrumb-item text-white active"
-                      aria-current="page"
-                    >
+                    <li className="breadcrumb-item text-white active" aria-current="page">
                       Help & Support
                     </li>
                   </ol>
@@ -37,7 +34,7 @@ const Help = () => {
               <Card className="shadow p-4">
                 <h2 className="text-center text-primary mb-4">How Can We Help?</h2>
                 <p>
-                  At <strong>CoochBeharTravel</strong>, we are dedicated to providing
+                  At <strong>Atiya Travels</strong>, we are dedicated to providing
                   excellent customer support. Below, you will find answers to some
                   of the most frequently asked questions.
                 </p>
@@ -58,7 +55,7 @@ const Help = () => {
 
                 <h4>3. What payment methods do you accept?</h4>
                 <p>
-                  We accept credit/debit cards, UPI, net banking, and other secure
+                  We accept credit/debit cards, online banking, and other secure
                   payment methods for online bookings.
                 </p>
 
@@ -67,16 +64,9 @@ const Help = () => {
                   Our customer support team is available 24/7. You can reach us via:
                 </p>
                 <ul>
-                  <li>
-                    <strong>Email:</strong> support@coochbehartravel.com
-                  </li>
-                  <li>
-                    <strong>Phone:</strong> 099322 04885
-                  </li>
-                  <li>
-                    <strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, 
-                    Biswa Singha Rd, Cooch Behar, West Bengal 736101
-                  </li>
+                  <li><strong>Email:</strong> atiyatravels2016@gmail.com</li>
+                  <li><strong>Phone:</strong> +880 1711-382113</li>
+                  <li><strong>Address:</strong> R.B. COMPLEX EAST ZINDABAZAR SYLHET BANGLADESH, Sylhet, Bangladesh</li>
                 </ul>
 
                 <h4>5. What should I do if I face an issue during my trip?</h4>

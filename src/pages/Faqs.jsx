@@ -49,7 +49,7 @@ const FAQs = () => {
                   <Accordion.Item eventKey="2">
                     <Accordion.Header>What payment methods do you accept?</Accordion.Header>
                     <Accordion.Body>
-                      We accept all major credit/debit cards, UPI, net banking, and mobile wallets for secure transactions.
+                    We accept all major credit/debit cards, online banking, and mobile wallets (including বিকাশ & নগদ) for secure transactions.
                     </Accordion.Body>
                   </Accordion.Item>
 
@@ -58,9 +58,9 @@ const FAQs = () => {
                     <Accordion.Body>
                       You can reach our support team via:
                       <ul>
-                        <li><strong>Email:</strong> support@coochbehartravel.com</li>
-                        <li><strong>Phone:</strong> 099322 04885</li>
-                        <li><strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</li>
+                        <li><strong>Email:</strong> atiyatravels2016@gmail.com</li>
+                        <li><strong>Phone:</strong> +880 1711-382113</li>
+                        <li><strong>Address:</strong> R.B. COMPLEX EAST ZINDABAZAR SYLHET BANGLADESH, Sylhet, Bangladesh</li>
                       </ul>
                     </Accordion.Body>
                   </Accordion.Item>

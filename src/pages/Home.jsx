@@ -12,7 +12,7 @@ export default function Home() {
                 Enjoy Your Vacation With Us
               </h1>
               <p className="fs-4 text-white mb-4 animated slideInDown">
-                <span className="text-primary">CoochBehar Travel</span> A
+                <span className="text-primary">Atiya Travel</span> A
                 Trustable And Comforatbel Journey For You
               </p>
               <div className="position-relative w-75 mx-auto animated slideInDown">
@@ -57,20 +57,15 @@ export default function Home() {
               </h6>
               <h1 className="mb-4">
                 Welcome to{" "}
-                <span className="text-primary">CoochbeharTravel</span>
+                <span className="text-primary">AtiyaTravel</span>
               </h1>
               <p className="mb-4">
-                Discover the world with Coochbehar Travel! 30+ years of
-                expertise in crafting your dream journeys across India and
-                exotic foreign destinations.
+              With over 30 years of expertise, we specialize in creating unforgettable travel experiences across Bangladesh, India, and exciting international destinations.
               </p>
               <p className="mb-4">
-                Your trip, your plan – our experience. Explore with the most
-                trusted travel agency from North Bengal.You can explore
-                Meghalaya · Assam · West Bengal · Gauhati, Assam, India ·
-                Kolkata, West Bengal, India · Sikkim · Rajasthan · Cooch Behar,
-                West Bengal, India · Shillong, Meghalaya, India · Arunachal
-                Pradesh
+              Your journey, your way – backed by our experience! 🏕️🚆✈️ Travel with Bangladesh’s most trusted agency and explore:
+
+🌿 Sylhet | 🏞️ Cox’s Bazar | 🕌 Dhaka | 🏰 Sundarbans | 🏔️ Bandarban | 🏝️ Saint Martin’s Island | 🏡 Kuakata | 🏙️ Chattogram | 🇮🇳 India | 🌍 Global Destinations
               </p>
               <div className="row gy-2 gx-4 mb-4">
                 <div className="col-sm-6">
@@ -397,7 +392,7 @@ export default function Home() {
                   </small>
                 </div>
                 <div className="text-center p-4">
-                  <h3 className="mb-0">₹14,000.00</h3>
+                  <h3 className="mb-0">৳14,000.00</h3>
                   <div className="mb-3">
                     <small className="fa fa-star text-primary" />
                     <small className="fa fa-star text-primary" />
@@ -452,7 +447,7 @@ export default function Home() {
                   </small>
                 </div>
                 <div className="text-center p-4">
-                  <h3 className="mb-0">₹12,00.00</h3>
+                  <h3 className="mb-0">৳12,00.00</h3>
                   <div className="mb-3">
                     <small className="fa fa-star text-primary" />
                     <small className="fa fa-star text-primary" />
@@ -507,7 +502,7 @@ export default function Home() {
                   </small>
                 </div>
                 <div className="text-center p-4">
-                  <h3 className="mb-0">₹18,000.00</h3>
+                  <h3 className="mb-0">৳18,000.00</h3>
                   <div className="mb-3">
                     <small className="fa fa-star text-primary" />
                     <small className="fa fa-star text-primary" />
